@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "en",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Professional geotechnical services in Oceanside, USA. Soil studies, testing and technical consulting.",
+  "id": "/oceanside-9976"
 }
